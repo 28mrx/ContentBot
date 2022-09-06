@@ -4,7 +4,7 @@ services:
     environment:
       API_ID: $API_ID  
       API_HASH: $API_HASH  
-      BOT_TOKEN: $BOT_TOKEN 
+      BOT_TOKEN: $1312141914:AAEaGViDWMh4xNXEknfXQUj1JsIKh-ndAjc
       SESSION: $SESSION
       AUTH: $AUTH
       FORCESUB: $FORCESUB
